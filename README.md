@@ -5,7 +5,7 @@
 $$
 \vec{r} =
 \begin{pmatrix}
-x\\y\\z\\
+x \\ y \\ z \\
 \end{pmatrix}
 \\ M = 
 \begin{pmatrix}
